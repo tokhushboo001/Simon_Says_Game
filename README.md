@@ -1,9 +1,5 @@
 # Simon_Says_Game
 Test your brain with this fun Simon Says memory game!
-🎮 Simon Says – Memory Game
-
-**Test your brain** with this fun and interactive memory game!  
-Built with **HTML, CSS, and JavaScript**, this project recreates the classic "Simon Says" game where you follow and repeat an ever-growing sequence of colors.
 
 🧠 How to Play
 
